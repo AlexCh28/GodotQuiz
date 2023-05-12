@@ -14,6 +14,10 @@ config/name="GodotQuiz"
 run/main_scene="res://assets/scenes/MainScreen.tscn"
 config/icon="res://icon.png"
 
+[autoload]
+
+PlayerData="*res://PlayerData.gd"
+
 [gui]
 
 common/drop_mouse_on_gui_input_disabled=true

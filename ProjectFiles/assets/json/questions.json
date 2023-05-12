@@ -28,5 +28,25 @@
       {"text": "Верно", "correct": true}
     ],
     "background": "res://assets/backgrounds/backgroundColorGrass.png"
+  },
+  {
+    "question": "Это вопрос с 3 возможными ответами",
+    "answers": [
+      {"text": "Неверно", "correct": false},
+      {"text": "Верно", "correct": true},
+      {"text": "Неверно", "correct": false}
+    ],
+    "background": "res://assets/backgrounds/backgroundEmpty.png"
+  },
+  {
+    "question": "Это вопрос с 5 возможными ответами",
+    "answers": [
+      {"text": "Неверно", "correct": false},
+      {"text": "Верно", "correct": true},
+      {"text": "Верно", "correct": true},
+      {"text": "Неверно", "correct": false},
+      {"text": "Верно", "correct": true}
+    ],
+    "background": "res://assets/backgrounds/backgroundDesert.png"
   }
 ]
