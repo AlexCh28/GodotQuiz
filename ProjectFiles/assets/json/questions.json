@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Какая страна самая большая в мире?",
+    "answers": [
+      {"text": "Россия", "correct": true},
+      {"text": "США", "correct": false},
+      {"text": "Китай", "correct": false},
+      {"text": "Канада", "correct": false}
+    ],
+    "background": "res://assets/backgrounds/backgroundColorFall.png"
+  },
+  {
+    "question": "Какой металл самый тяжелый?",
+    "answers": [
+      {"text": "Золото", "correct": false},
+      {"text": "Платина", "correct": false},
+      {"text": "Олово", "correct": false},
+      {"text": "Осмий", "correct": true}
+    ],
+    "background": "res://assets/backgrounds/backgroundColorDesert.png"
+  },
+  {
+    "question": "Это вопрос с мультивыбором, правильный ответ 2 и 4",
+    "answers": [
+      {"text": "Неверно", "correct": false},
+      {"text": "Верно", "correct": true},
+      {"text": "Неверно", "correct": false},
+      {"text": "Верно", "correct": true}
+    ],
+    "background": "res://assets/backgrounds/backgroundColorGrass.png"
+  }
+]
